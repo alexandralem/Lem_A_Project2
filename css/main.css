@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+
+.hidden {
+    display: none;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-weight: 900;
+    font-size: 20px;
+    color: black;
+    padding: 10px 0;
+}
+
+h2 {
+    padding: 20px 0;
+    font-size: 35px;
+}
+
+.conclusion {
+    font-style: italic;
+    
+}
+.floatImgRight {
+    float: right;
+    margin-left: 20px;
+    padding: 0;
+}
+
+.floatImgLeft {
+    float: left;
+    margin-right: 20px;
+    padding: 0;
+}
+
+
